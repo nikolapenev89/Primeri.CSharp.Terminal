@@ -43,7 +43,7 @@ namespace Modul02
 			a *= b;
 			Console.WriteLine (a);
 
-			Console.Write ("\nИзползване на ++");
+			Console.WriteLine ("\nИзползване на ++");
 			a++;
 			Console.WriteLine (a);
 
