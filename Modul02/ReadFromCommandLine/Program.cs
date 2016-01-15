@@ -14,7 +14,7 @@ namespace ReadFromCommandLine
 			b = Convert.ToInt32 ( Console.ReadLine () ); 
 
 			//Печат на резултат
-			Console.WriteLine ("Резултатът a+b e "+(a+b).ToString()+"\n\n\n");
+			Console.WriteLine ("Резултатът a+b e " + (a+b).ToString() + "\n\n\n");
 
 			string test = "1";
 			test += ", 2";
